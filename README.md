@@ -1,7 +1,7 @@
 
 #  DIO | Serio-CLI
 
- O **Serio-CLI** é uma simples aplicação de linha de comando construída em **C#** que gerencia séries cadastradas em memória. Atualmente é possível cadastrar, atualizar e remover seriados. Esta aplicação faz uso das tecnologias, conceitos e padrões estudados durante o bootcamp  **everis New Talents - .NET** na plataforma **DIO**.
+Projeto **"Cadastro de Séries"** requisitado pela plataforma DIO. Esta é uma simples aplicação de linha de comando construída em **C#** que gerencia séries cadastradas em memória. Atualmente é possível cadastrar, atualizar e remover seriados. Esta aplicação faz uso das tecnologias, conceitos e padrões estudados durante o bootcamp  **everis New Talents - .NET** na plataforma **DIO**.
  # Preview
  ![GIF da aplicação em execução.](https://media.giphy.com/media/9unpcuDQrA19X5WrHy/giphy.gif)
 
